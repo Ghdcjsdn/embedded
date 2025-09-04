@@ -1,4 +1,4 @@
-# seoulhanyangunivhighshcool
+# embedded
 
 A new Flutter project.
 
